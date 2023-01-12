@@ -58,7 +58,7 @@ p{
 
 .sorteio{
     grid-area: B;
-    display: none;    
+    display: block;    
 
 }
 
@@ -93,4 +93,11 @@ button{
     font-weight: 600;
     
 
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(2, 182, 2);
+    color: #FFF;
+    border: 0px;
 }
