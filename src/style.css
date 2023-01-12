@@ -35,8 +35,9 @@ h1{
 
 p{
     font-size: 10px;
-    font-weight: 200;
+    font-weight: 100;
     text-align: center;
+    color: rgb(10, 136, 83);
 
 }
 
@@ -95,6 +96,7 @@ button{
     font-weight: 600;
     margin-top: 40px;
     border-color: rgba(10, 172, 23, 0.678);
+    color: rgb(10, 136, 83);
     
 
 }
@@ -140,8 +142,11 @@ li:hover{
 
 footer{
     font-size: 18px;    
-    margin-top: -40px;
-    color: #FFF;
+    margin-top: -40px;    
     font-weight: 100;
     font-family: sans-serif;
+}
+
+footer p{
+    color: #FFF;
 }
