@@ -1,0 +1,1 @@
+O objetivo deste projeto é criar uma apresentação que sorteie números de 1 a 60 para simular atividade da loteria federal do Brasil Mega-Sena.
