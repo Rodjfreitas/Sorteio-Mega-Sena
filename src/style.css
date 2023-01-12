@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(10, 172, 23, 0.678);
+}
+
+
+#Box{
+    display: grid;
+    grid-template-areas: 
+    'A'
+    'B';
+    gap: 20px;
+    
+}
+
+.carregamento{
+    grid-area: A;
+    background-color: rgb(8, 238, 8);
+    
+
+}
+
+.sorteio{
+    grid-area: B;
+    background-color: rgb(8, 238, 8);
+    
+
+}
+
+.pagina{
+    padding: 50px 35px;
+
+}
