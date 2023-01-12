@@ -136,3 +136,8 @@ li:hover{
     color: #FFF;
     border: 0px;
 }
+
+footer{
+    font-size: 18px;    
+    margin-top: -40px;
+}
