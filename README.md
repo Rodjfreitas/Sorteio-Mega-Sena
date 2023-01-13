@@ -21,6 +21,8 @@ determinado público.</p>
 <h2>O Projeto</h2>
 
 <p>Acompanhe abaixo a funcionalidade do projeto, através de vídeo e captura de tela:</p>
+<p>Foram utilizadas propriedades de posicionamentos como CSS Grid, box-sizin, flexbox, além de inserir o @media query 
+para responsividade de telas de diferentes resoluções.</p>
 
 ### Vídeo 🎞️
 ![Simulador-Mega-Sena-e-mais-1-página-Pessoal-Microsoft_-Edge-2023-01-13-19-06-39](https://user-images.githubusercontent.com/119018022/212435057-e78e4e5d-ce18-4ad1-bc93-85bd2ffa098c.gif)
