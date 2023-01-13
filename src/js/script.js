@@ -20,8 +20,8 @@ botaoSorteio.addEventListener('click',clicarSorteio);
 
 
 function clicarReset(){
-    paginaPrincipal.style.display = 'block';
-    paginaSorteio.style.display = 'none';
+    location.reload();
+
 }
 
 botaoReset.addEventListener('click',clicarReset);
