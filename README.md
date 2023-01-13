@@ -25,9 +25,17 @@ determinado público.</p>
 para responsividade de telas de diferentes resoluções.</p>
 
 ### Vídeo 🎞️
+<p>Vídeo extraído do navegador microsoft edge atestando as funcionalidades do Projeto</p>
 ![Simulador-Mega-Sena-e-mais-1-página-Pessoal-Microsoft_-Edge-2023-01-13-19-06-39](https://user-images.githubusercontent.com/119018022/212435057-e78e4e5d-ce18-4ad1-bc93-85bd2ffa098c.gif)
 
 ### Captura de Telas 🖥️
+<p>Captura da tela principal</p>
 ![Principal-Captura](https://user-images.githubusercontent.com/119018022/212433045-3faf8d48-966c-45fb-84ee-41ab575278bc.jpeg)
 
+<p>Captura da tela de números sorteados</p>
 ![Sorteio-Captura](https://user-images.githubusercontent.com/119018022/212433103-2530cc51-756b-41b9-823f-5bc18716b511.jpeg)
+
+
+### Planejamento do Projeto 🧾
+<p>Escopo gráfico do projeto antes de programá-lo</p>
+![IMG_20230113_202830](https://user-images.githubusercontent.com/119018022/212437350-9a08cdc9-b913-4925-8854-5260eff6ddc9.jpg)
