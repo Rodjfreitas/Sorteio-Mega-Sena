@@ -23,11 +23,11 @@ determinado público.</p>
 <p>Acompanhe abaixo a funcionalidade do projeto, através de vídeo e captura de tela:</p>
 
 ### Vídeo 🎞️
-<h1>Uploading Simulador Mega Sena e mais 1 página - Pessoal - Microsoft​ Edge 2023-01-13 19-06-39.mp4…</h1>
+Uploading Simulador Mega Sena e mais 1 página - Pessoal - Microsoft​ Edge 2023-01-13 19-06-39.mp4…
 
 ### Captura de Telas 🖥️
-<h1>![Principal-Captura](https://user-images.githubusercontent.com/119018022/212433045-3faf8d48-966c-45fb-84ee-41ab575278bc.jpeg)</h1>
+![Principal-Captura](https://user-images.githubusercontent.com/119018022/212433045-3faf8d48-966c-45fb-84ee-41ab575278bc.jpeg)
 
-<h1>![Sorteio-Captura](https://user-images.githubusercontent.com/119018022/212433103-2530cc51-756b-41b9-823f-5bc18716b511.jpeg)</h1>
+![Sorteio-Captura](https://user-images.githubusercontent.com/119018022/212433103-2530cc51-756b-41b9-823f-5bc18716b511.jpeg)
 
 
