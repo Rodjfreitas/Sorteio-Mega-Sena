@@ -49,7 +49,8 @@ p{
     'B';
     gap: 20px;
     place-content: center;
-    height: 100vh;
+    height: 100vh;    
+    
     
     
 }
@@ -68,8 +69,9 @@ p{
 .pagina{
     padding: 50px 50px;
     width: fit-content;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: rgb(8, 238, 8);
+    
 
 }
 
@@ -109,7 +111,7 @@ button:hover{
     border: 0px;
 }
 
-.numeros{
+#mostrar-lista ul{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -122,7 +124,7 @@ button:hover{
 
 }
 
-li{
+#mostrar-lista li{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -137,7 +139,7 @@ li{
     
 }
 
-li:hover{
+#mostrar-lista li:hover{
     cursor: pointer;
     background-color: rgb(10, 136, 83);
     color: #FFF;
@@ -146,7 +148,7 @@ li:hover{
 
 footer{
     font-size: 18px;    
-    margin-top: -40px;    
+    margin-top: -70px;    
     font-weight: 100;
     font-family: sans-serif;
 }
