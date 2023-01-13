@@ -34,7 +34,7 @@ while( i < 6){
 
     sorteio = Math.ceil(Math.random()*60);     
     if(mega.indexOf(sorteio) < 0){        
-        mega.push(sorteio);                       
+        mega.push(sorteio);                             
         i++; 
                      
     }  
@@ -47,23 +47,27 @@ mega.sort(ordenarNumeros);
 console.log(mega);
 
 
-
+//Transferência de informações do Array para Li//
 
 const addLi = function(array){
 
 
     for(var i = 0; i < array.length; i++){
         
-
-        item.appendChild(document.createTextNode("numero: "+ sorteio.indexOf(array[i])));
-        list.appendChild(item);        
+        list.appendChild(item); 
+        item.appendChild(document.createTextNode(mega[i]));
+        
+               
     }
+    
     console.log(list);    
     return list;
     
 }
 
-document.getElementById('mostrar-lista').appendChild(addLi(sorteio));
+
+
+document.getElementById('mostrar-lista').appendChild(addLi(mega));
 
 
 
