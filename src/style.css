@@ -49,7 +49,7 @@ p{
     'B';
     gap: 20px;
     place-content: center;
-    height: 100vh;    
+    height: 100vh;   
     
     
     
@@ -155,4 +155,100 @@ footer{
 
 footer p{
     color: #FFF;
+}
+
+
+@media screen and (max-width: 500px) {
+    #Box{
+        display: flex;
+        justify-content: center;
+        align-items: center;        
+        place-content: center;
+        height: 100vh;        
+    }
+    
+
+    .pagina{
+        padding: 25px 25px;        
+        width: 90%;
+        border-radius: 40px;
+        background-color: rgb(8, 238, 8);    
+    }
+
+
+    #texto{    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100px;
+        width: 280px;
+        margin: auto;        
+    }
+
+    h1{
+        font-size: 25px;
+    }
+
+    #mostrar-lista li{
+        margin: 0 4.2px;        
+        width: 35px;
+        height: 35px;
+        border-radius: 50%;
+        font-weight: 100; 
+        font-size: 12px;       
+    }
+
+}
+
+
+
+@media screen and (max-width: 300px) {
+    #Box{
+        display: flex;
+        justify-content: center;
+        align-items: center;        
+        place-content: center;
+        height: 100vh;        
+    }    
+
+    .pagina{
+        padding: 20px 20px;        
+        width: 80%;   
+    }
+
+    #texto{
+        width: 180px;                
+    }
+
+    p{
+        font-size: 7px;   
+    }
+
+    h1{
+        font-size: 15px;
+    }
+
+    #mostrar-lista li{
+        margin: 0 4.2px;        
+        width: 25px;
+        height: 25px;
+        font-weight: 0; 
+        font-size: 10px;       
+    }
+
+    button{
+        height: 30px;
+        font-size: 15px;
+        font-weight: 400;
+        margin-top: 10px;
+    }
+
+    .img{
+        margin-bottom: 10px;            
+    }
+
+    #mostrar-lista{
+        margin-bottom: -30px;
+    }
+
 }
