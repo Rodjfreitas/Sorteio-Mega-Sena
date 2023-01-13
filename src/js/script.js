@@ -55,7 +55,3 @@ const addLi = function(array){
     return list;    
 }
 document.getElementById('mostrar-lista').appendChild(addLi(mega));
-
-
-
-

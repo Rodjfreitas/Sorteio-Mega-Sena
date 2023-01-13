@@ -31,5 +31,3 @@ para responsividade de telas de diferentes resoluções.</p>
 ![Principal-Captura](https://user-images.githubusercontent.com/119018022/212433045-3faf8d48-966c-45fb-84ee-41ab575278bc.jpeg)
 
 ![Sorteio-Captura](https://user-images.githubusercontent.com/119018022/212433103-2530cc51-756b-41b9-823f-5bc18716b511.jpeg)
-
-
